@@ -1,15 +1,13 @@
 /** \file Lab-4.cpp
-* \brief This file contains a small drawing program that is giving a choice of five and then executes a sub-program with number corresponding to the user's choice
+* \brief This file contains a menu implementation and main()
 * \author Alex
-* \date 08/03/2024
+* \date 12/04/2024
 * \copyright UNic
 */
 #include <iostream>
 #include <cassert>
 #include "Shapes.h"
 using  namespace std;
-
-
 
 /**
 * Shows the menu and does the selection

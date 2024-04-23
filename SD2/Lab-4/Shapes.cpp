@@ -1,7 +1,7 @@
-/** \file Lab1.cpp
-* \brief This file contains a small drawing program that is giving a choice of five and then executes a sub-program with number corresponding to the user's choice
+/** \file Shapes.cpp
+* \brief This file contains implementations of drawing functions
 * \author Alex
-* \date 08/03/2024
+* \date 12/04/2024
 * \copyright UNic
 */
 
